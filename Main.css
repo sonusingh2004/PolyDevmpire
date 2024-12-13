@@ -108,7 +108,7 @@ p {
 
 
 .Devmpire {
-    background-image: url('/home/images/bac.jpg'); 
+    background-image: url('bac.jpg'); 
     background-size: cover; 
     background-position: center; 
     color: white; 
